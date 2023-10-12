@@ -14,11 +14,15 @@ To running this program, you can follow this step :
    ```sh
    yarn
    ```
-3. Start the project
+3. Build the project
    ```sh
-   yarn dev
+   yarn build
    ```
-4. Open insomnia and import this file `Country_API_Collection.json`
+4. Start the project
+   ```sh
+   yarn start
+   ```
+5. Open insomnia and import this file `Country_API_Collection.json`
 
 ## Response from API
 This is a screenshots response from data country list and country detail
